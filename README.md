@@ -1,7 +1,7 @@
 # PluginCreator
-Plugin Template Creator for PocketMine Servers
-Easy create plugins with template
-Full customizable
+  - Plugin Template Creator for PocketMine Servers
+  - Easy create plugins with template
+  - Full customizable
 
 # Usage
 - Download this repository
